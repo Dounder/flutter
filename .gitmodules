@@ -1,0 +1,3 @@
+[submodule "flutter-mobile-2023-fh"]
+	path = flutter-mobile-2023-fh
+	url = git@github.com:Dounder/flutter-2023.git
